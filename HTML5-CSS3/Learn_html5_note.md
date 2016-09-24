@@ -78,7 +78,7 @@ HTML4中代码示例
 
         <ul>..</ul>
         
-*** figure元素***，表示一段独立的流内容，文档主体流内容中的一个独立单元。使用figcaption元素为figure元素组添加标题。
+***figure元素***，表示一段独立的流内容，文档主体流内容中的一个独立单元。使用figcaption元素为figure元素组添加标题。
 HTML5中代码示例
 
         <figure>
@@ -89,4 +89,4 @@ HTML5中代码示例
         
 运行效果：
 
-[figure]!()
+[figure]!(figure.png)
