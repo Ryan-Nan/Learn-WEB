@@ -89,4 +89,4 @@ HTML5中代码示例
         
 运行效果：
 
-[figure]!(figure.png)
+![figure](figure.png)
