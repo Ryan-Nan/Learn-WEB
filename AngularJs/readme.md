@@ -1,7 +1,7 @@
 # 学习AngularJs笔记
 AngularJs 通过新的属性和表达式扩展了HTML。 AngularJs 可以构建一个单一页面的应用程序（SPAs：Single Page Applications）。
 
-AngularJs 是*一个JavaScript的框架*，是一个以JavaScript编写的库。
+AngularJs 是*一个JavaScript的框架*，是一个以JavaScript编写的库，是由Google创建的。
 
 
 AngularJS 是以一个 JavaScript 文件形式发布的，可通过 script 标签添加到网页中：
@@ -42,6 +42,35 @@ AngularJs通过**指令**扩展到html，且通过**表达式**绑定数据到HT
  + 深层链接: 深层链接，可以使应用程序状态进行编码在URL中而能够添加到书签。应用程序可从URL恢复到相同的状态。
 
  + 依赖注入: AngularJS有一个内置的依赖注入子系统，开发人员通过使应用程序从而更易于开发，理解和测试。
+
+## 使用方法
+AngularJs的官方网站上给出了这个框架的基本使用方法，如：
+
+ * 如何引入AugularJS，从而让你的web应用使用该框架
+ * 如何添加控件，并对其进行数据绑定
+ * 如何进行表单验证
+ * 如何与服务器通信
+ * 如何创建可重用的组件
+ * 如何对组件进行本地化
+ * 如何让应用可嵌入、可注入和可测试
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
